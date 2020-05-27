@@ -609,8 +609,11 @@ GET IN TOUCH section */
 .social-network-connect li {
   margin-bottom: 0.7rem;
 }
+.social-network-connect a {
+  text-decoration: none;
+}
 
-.social-network-connect li > i {
+.social-network-connect li > a > i {
   font-size: 1.6rem;
   padding: 0.5rem;
   border-radius: 50%;
