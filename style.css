@@ -141,7 +141,7 @@ header {
 /* end of header css */
 .landingSection {
     width: 100%;
-    background-image: url(chi.jpg);
+    background-image: url(images/chi.jpg);
     height: 92vh;
     background-position: center center;
     background-repeat: no-repeat;
@@ -323,7 +323,7 @@ hire me section */
     margin: 12.9rem 0;
     width: 100%;
     height: 9rem;
-    background-image: url(hireme.jpg);
+    background-image: url(images/hireme.jpg);
     background-repeat: no-repeat;
     background-size: cover;
    
@@ -472,39 +472,39 @@ PORTFOLIO SECTION  */
     font-size: 1.2rem;
 }
 .portfolioContainer .schoolAdmission {
-    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(hospital.jpg) center center;
+    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(images/hospital.jpg) center center;
     background-size: cover;
 }
 
 .portfolioContainer .ecommerce {
-    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(ecommerce.jpg) center center;
+    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(images/ecommerce.jpg) center center;
     background-size: cover;
 }
 
 .portfolioContainer .chat {
-    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(chat.jpg) center center;
+    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(images/chat.jpg) center center;
     background-size: cover;
 }
 .portfolioContainer .humanResource {
-    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(humanResource.jpg) center center;
+    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(images/humanResource.jpg) center center;
     background-size: cover;
 }
 
 .portfolioContainer .home {
-    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(homeFinder.jpg) center center;
+    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(images/homeFinder.jpg) center center;
     background-size: cover;
 }
 .portfolioContainer .job {
-    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(jobFinder.jpg) center center;
+    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(images/jobFinder.jpg) center center;
     background-size: cover;
 }
 .portfolioContainer .paymentIntegration {
-    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(payment.jpg) center center;
+    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(images/payment.jpg) center center;
     background-size: cover;
 }
 
 .portfolioContainer .service {
-    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(service.jpg) center center;
+    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .7)), url(images/service.jpg) center center;
     background-size: cover;
 }
 /* 
@@ -513,7 +513,7 @@ CLIENTS AND WORK STATISTIC */
 
 .workstatistics {
     margin: 10rem 0;
-    background: radial-gradient(circle, rgba(2, 3, 18, .4), rgba(2, 3, 18, 1), rgba(2, 3, 18, 1)), url(happ.jpg) center center;
+    background: radial-gradient(circle, rgba(2, 3, 18, .4), rgba(2, 3, 18, 1), rgba(2, 3, 18, 1)), url(images/happ.jpg) center center;
     background-size: cover;
     height: 15rem;
     display: flex;
@@ -545,7 +545,7 @@ CLIENTS AND WORK STATISTIC */
 GET IN TOUCH section */
 
 #lets-communicate {
-    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .9)), url(light.jpg) center;
+    background: linear-gradient(rgba(2, 3, 18, .7), rgba(2, 3, 18, .9)), url(images/light.jpg) center;
     background-size: cover;
     background-repeat: no-repeat;
     padding: 3rem  0 0 0 ;
