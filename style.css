@@ -480,6 +480,11 @@ PORTFOLIO SECTION  */
     url(images/portfo/budget.png) center center;
   background-size: cover;
 }
+.portfolioContainer .jobTracker {
+  background: linear-gradient(rgba(2, 3, 18, 0.7), rgba(2, 3, 18, 0.7)),
+    url(images/portfo/jobTracker.png) center center;
+  background-size: cover;
+}
 .portfolioContainer .humanResource {
   background: linear-gradient(rgba(2, 3, 18, 0.7), rgba(2, 3, 18, 0.7)),
     url(images/portfo/authentication.png) center center;
